@@ -3,43 +3,63 @@ Config = {}
 Config.RestrictedChannels = {
     [1] = {
         police = true,
-        ambulance = true
+        ambulance = true,
+        mechanic = true,
+        firefighter = true
     },
     [2] = {
         police = true,
-        ambulance = true
+        ambulance = true,
+        mechanic = true,
+        firefighter = true
     },
     [3] = {
         police = true,
-        ambulance = true
+        ambulance = true,
+        mechanic = true,
+        firefighter = true
     },
     [4] = {
         police = true,
-        ambulance = true
+        ambulance = true,
+        mechanic = true,
+        firefighter = true
     },
     [5] = {
         police = true,
-        ambulance = true
+        ambulance = true,
+        mechanic = true,
+        firefighter = true
     },
     [6] = {
         police = true,
-        ambulance = true
+        ambulance = true,
+        mechanic = true,
+        firefighter = true
     },
     [7] = {
         police = true,
-        ambulance = true
+        ambulance = true,
+        mechanic = true,
+        firefighter = true
     },
     [8] = {
         police = true,
-        ambulance = true
+        ambulance = true,
+        mechanic = true,
+        firefighter = true
     },
     [9] = {
         police = true,
-        ambulance = true
+        ambulance = true,
+        mechanic = true,
+        firefighter = true
     },
     [10] = {
         police = true,
-        ambulance = true
+        ambulance = true,
+        mechanic = true,
+        firefighter = true
     }
 }
 
